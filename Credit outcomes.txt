@@ -1,0 +1,4 @@
+2025-03-28 21:48:45 - RETRIEVER: Pass=40, Defer=40, Fail=40
+2025-03-28 21:48:59 - RETRIEVER: Pass=80, Defer=20, Fail=20
+2025-03-28 21:49:11 - EXCLUDE: Pass=20, Defer=20, Fail=80
+2025-03-28 21:49:20 - TRAILER: Pass=100, Defer=20, Fail=0
