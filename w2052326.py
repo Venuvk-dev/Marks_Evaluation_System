@@ -6,7 +6,7 @@ import statistics
 range_list = [0, 20, 40, 60, 80, 100, 120]
 progression_data = []  # List to store progression data
 output = [0, 0, 0, 0]
-total_students = 0  # Tracking for total number of students processed
+total_students = 0  
 
 # Error logging functionality
 def log_error(error_message):
